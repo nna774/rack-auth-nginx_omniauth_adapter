@@ -1,6 +1,6 @@
 module Rack
   module Auth
-    module NginxOmniauthAdapter
+    class NginxOmniauthAdapter
       VERSION = "0.1.0"
     end
   end
